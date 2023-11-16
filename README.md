@@ -1,5 +1,5 @@
-# quantum-computing
+# Quantum Computing
 
 Demonstration of teleportation and distinguishing quantum states
 
-See the pdf for more information
+View teleport_distinguish.pdf for more information
